@@ -107,3 +107,44 @@ Well, it's just too difficult to make ChatGPT work for me (THE AUDACITY!), so I 
 > 28. Calm Grind in Tarrey Town, Wizard of Loneliness
 > 29. Outset, Clangon
 > 30. Dire Docks, Wizard of Loneliness
+
+| Write timestamps for the following tracks, including matching emojis: (all tracks listed above) | [ChatGPT](https://chat.openai.com/chat) |
+|----|----|
+
+> 0:00 - Pokémon Gym, Mikel 🎮 </br>
+> 2:30 - littleroot town ~ pokémon lofi, Closed on Sunday 🐦 </br>
+> 5:00 - Korok Forest, Mikel 🌲 </br>
+> 7:30 - victory celebration ~ star wars lofi, Closed on Sunday 🏆 </br>
+> 10:00 - The Great Sea, Mikel 🌊 </br>
+> 12:30 - Zora's Domain (Night), The Versions 🌃 </br>
+> 15:00 - Song of Healing, Mikel 🎶 </br>
+> 17:30 - Fairy Mountain (Zelda Lofi), Playstation Lo-Five 🧚‍♂️ </br>
+> 20:00 - Sacred Beasts, Mikel 🦁 </br>
+> 22:30 - Pokémon Lofi, lofi otaku 🐉 </br>
+> 25:00 - Tal Tal Heights, Mikel 🏔️ </br>
+> 27:30 - Gerudo Valley (Zelda Lofi), Playstation Lo-Five 🏰 </br>
+> 30:00 - Hau'oli City, Mikel 🌞 </br>
+> 32:30 - Midna's Lament, Coffee Date 🎵 </br>
+> 35:00 - Outset Island, Mikel 🏝️ </br>
+> 37:30 - 7 PM, Jokabi 🕖 </br>
+> 40:00 - Kokiri Forest, Mikel 🏞️ </br>
+> 42:30 - sleep it off, leon chang 💤 </br>
+> 45:00 - Azalea Town, Mikel 🏙️ </br>
+> 47:30 - Pokémon Center, Tee Lopes 🏥 </br>
+> 50:00 - Temple of Time, Mikel 🕰️ </br>
+> 52:30 - Pallet Town (From "Pokemon Red/Blue"), Lofi Lia 🌿 </br>
+> 55:00 - Route 30, Mikel 🛣️ </br>
+> 57:30 - セレビィ// Celebi, amphee 🌟 </br>
+> 1:00:00 - Astral Observatory, Mikel 🌌 </br>
+> 1:02:30 - Fairy Fountain, Shag 🧚‍♀️ </br>
+> 1:05:00 - Talus, Mikel 💎 </br>
+> 1:07:30 - Calm Grind in Tarrey Town, Wizard of Loneliness 💭 </br>
+> 1:10:00 - Outset, Clangon 🏞️ </br>
+> 1:12:30 - Dire Docks, Wizard of Loneliness 🛳️
+
+| Can you use the actual duration of each track? | [ChatGPT](https://chat.openai.com/chat) |
+|----|----|
+
+> I'm sorry, I don't have access to the actual durations of the tracks you mentioned. You can use a music player or a audio editing software to find the exact length of each track.
+
+(Just as I expected)
