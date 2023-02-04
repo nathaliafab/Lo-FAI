@@ -9,6 +9,7 @@
 - [Short Description](#lets-begin-with-a-short-description)
 - [Profile Pic](#of-course-a-profile-pic-is-necessary)
 - [First Try](#here-comes-the-first-try)
+  - [YouTube Video](#to-the-youtube-video)
 ---
 
 ### Let's begin with a short description.
@@ -74,7 +75,7 @@ OMG. "Lo-Fi Cuddles" is too cute, I HAD TO choose that title, even though there 
 
 Well, it's just too difficult to make ChatGPT work for me (THE AUDACITY!), so I just used an online playlist generator. Since my theme is "cute lo-fi", I chose the track "Azalea Town" by Mikel to inspire the playlist. :smile:
 
-[MagicPlaylist](https://create.magicplaylist.co/#/pt/create/0uanFLRIXsi1PgBync64NJ?trackSource=suggestion&_k=pr4mj6) |
+[MagicPlaylist](https://create.magicplaylist.co/#/pt/create/0uanFLRIXsi1PgBync64NJ?trackSource=suggestion&_k=pr4mj6)
 |----|
 
 > 1. Pokémon Gym, Mikel
@@ -148,3 +149,43 @@ Well, it's just too difficult to make ChatGPT work for me (THE AUDACITY!), so I 
 > I'm sorry, I don't have access to the actual durations of the tracks you mentioned. You can use a music player or a audio editing software to find the exact length of each track.
 
 (Just as I expected)
+
+---
+
+### To the YouTube video!
+| Give me some options of pastel colors (Hex code + description). They have to be cute | [ChatGPT](https://chat.openai.com/chat) |
+|----|----|
+
+> Sure, here are some pastel colors with hex codes and brief descriptions: </br>
+> 
+> #F2BDC0 (Blush Pink): A soft, light pink color </br>
+> #C5D8E8 (Baby Blue): A pale blue color, reminiscent of a baby's eyes </br>
+> #FEE0A5 (Lemon Chiffon): A light yellow-green color, reminiscent of lemon chiffon pie </br>
+> #FFE5B4 (Peach Puff): A light orange-pink color, reminiscent of a ripe peach </br>
+> #C1E4E9 (Periwinkle): A pale blue-purple color </br>
+> #A7D8DE (Mint Green): A light green color, reminiscent of freshly picked mint leaves </br>
+> #F9C0CB (Cotton Candy): A light pink color, reminiscent of spun sugar treat </br>
+> #C2E0E5 (Sky Blue): A light blue color, reminiscent of a clear sky on a sunny day.
+
+| lushill style, cute teddy bear in coffee shop, plants, cozy ambiance| [PlaygroundAI - Stable Diffusion 1.5](https://playgroundai.com/) |
+|----|----|
+
+<p align="center">
+  <img width="450" height="450" src="/assets/img/01 - My first attempt/lushill-style-cute-teddy-bear-in-coffee-shop-plants-cozy-ambiance-256941695.png">
+</p>
+
+[Canva](https://www.canva.com/)
+|----|
+
+<p align="center">
+  <img height="450" src="/assets/img/01 - My first attempt/Lo-Fi Cuddles.png">
+</p>
+
+Then I downloaded all the songs and edited a simple video using Clipchamp (this part was done manually). I also made the same playlist on Deezer, because I prefer to listen there.
+- [YOUTUBE VIDEO](https://youtu.be/n3zk5CubPVo)
+- [DEEZER PLAYLIST](https://deezer.page.link/7stuPR4q2ePtpVdv6)
+
+The whole process was so much fun. I've wanted to do something like this for YouTube for a long time. Still, that's not my main focus... :thinking:
+
+---
+## To be continued...
