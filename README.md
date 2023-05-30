@@ -3,7 +3,11 @@
 *My main goal is to produce lo-fi music using artificial intelligence and make a small gallery of artifacts. I've always loved this genre and AI is my latest interest. So why not?* :relaxed:
 *Everything possible in this repository will be generated through AI. Enjoy!*
 
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh5YZuBBzYztRRzrxKEiHZg)
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCh5YZuBBzYztRRzrxKEiHZg">
+    <img src="https://img.shields.io/youtube/channel/views/UCh5YZuBBzYztRRzrxKEiHZg" alt="YouTube Channel Views">
+  </a>
+</div>
 
 ## Table of contents
 - [Short Description](#lets-begin-with-a-short-description)
@@ -25,7 +29,7 @@
 |----|----|
 
 <p align="center">
-  <img width="450" height="450" src="/assets/img/lofai_logo.png">
+  <img width="25%" height="25%" src="/assets/img/lofai_logo.png">
 </p>
 
 I really like this one. It wasn't the first thing first that came up, but it was love at first... variations. And it does say "Lo-FAI" out loud!
@@ -58,8 +62,8 @@ And that is what I tried to do. Here's the process:
 Pretty nice, isn't it? But those tracks don't even exist. So I keep trying:
 
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/74332487/216627718-05cb1bc9-d9ca-47c4-948b-aea7cd509407.png">
-  <img width="600" src="https://user-images.githubusercontent.com/74332487/216627811-9a157158-357b-41a0-be98-38552b23d337.png">
+  <img width="75%" height="75%" src="https://user-images.githubusercontent.com/74332487/216627718-05cb1bc9-d9ca-47c4-948b-aea7cd509407.png">
+  <img width="75%" height="75%" src="https://user-images.githubusercontent.com/74332487/216627811-9a157158-357b-41a0-be98-38552b23d337.png">
 </p>
 
 I won't show all my attempts, but I tried A LOT; ChatGPT is simply not a big fan of lo-fi hip hop. As you can see, they just made things up. So, let's move on for now. What about the title?
@@ -171,14 +175,14 @@ Well, it's just too difficult to make ChatGPT work for me (THE AUDACITY!), so I 
 |----|----|
 
 <p align="center">
-  <img width="450" height="450" src="/assets/img/01 - My first attempt/lushill-style-cute-teddy-bear-in-coffee-shop-plants-cozy-ambiance-256941695.png">
+  <img width="50%" height="50%" src="/assets/img/01 - My first attempt/lushill-style-cute-teddy-bear-in-coffee-shop-plants-cozy-ambiance-256941695.png">
 </p>
 
 [Canva](https://www.canva.com/)
 |----|
 
 <p align="center">
-  <img height="450" src="/assets/img/01 - My first attempt/Lo-Fi Cuddles.png">
+  <img width="50%" height="50%" src="/assets/img/01 - My first attempt/Lo-Fi Cuddles.png">
 </p>
 
 Then I downloaded all the songs and edited a simple video using Clipchamp (this part was done manually). I also made the same playlist on Deezer, because I prefer to listen there.
