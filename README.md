@@ -182,7 +182,7 @@ Well, it's just too difficult to make ChatGPT work for me (THE AUDACITY!), so I 
 |----|
 
 <p align="center">
-  <img width="50%" height="50%" src="/assets/img/01 - My first attempt/Lo-Fi Cuddles.png">
+  <img width="75%" height="75%" src="/assets/img/01 - My first attempt/Lo-Fi Cuddles.png">
 </p>
 
 Then I downloaded all the songs and edited a simple video using Clipchamp (this part was done manually). I also made the same playlist on Deezer, because I prefer to listen there.
